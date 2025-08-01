@@ -16,7 +16,7 @@ Este script de PowerShell permite recolectar y visualizar información detallada
 ### 1. Clona o descarga el script
 
 ```bash
-git clone https://github.com/tu_usuario/Get-SystemInformation.git
+git clone https://github.com/NoTrustedx/Get-SystemInformation.git
 cd Get-SystemInformation
 ````
 
