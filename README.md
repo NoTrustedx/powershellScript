@@ -1,4 +1,4 @@
-## 🖥️ Get-SystemInformation.ps1
+## 🖥️ Get-SystemInformation
 
 Este script de PowerShell permite recolectar y visualizar información detallada del sistema Windows, incluyendo sistema operativo, parches, paquetes instalados, unidades de red y discos físicos. Todo ello se presenta en consola con colores y banners llamativos, además de generar archivos de salida para su análisis posterior.
 
