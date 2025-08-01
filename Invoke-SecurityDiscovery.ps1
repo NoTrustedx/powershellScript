@@ -16,10 +16,10 @@
     Activa la visualización de información detallada durante la ejecución del script.
 
     .EXAMPLE
-    .\Descubrir-Software-Seguridad.ps1
+    .\Invoke-SecurityDiscovery.ps1.ps1
 
     .EXAMPLE
-    .\Descubrir-Software-Seguridad.ps1 -ComputerName "equipo-remoto" -EnableVerbose
+    .\Invoke-SecurityDiscovery.ps1 -ComputerName "equipo-remoto" -EnableVerbose
 #>
 
 param(
